@@ -59,6 +59,7 @@ ln -s ../../.agents/skills/<name> ~/.claude/skills/<name>
 |---|---|---|---|
 | mattpocock/skills | GitHub | проектирование модулей, отладка, предметная область, прототипы, допрос плана, передача сессии | `diagnosing-bugs`, `grilling`, `handoff`, `wizard`, `writing-for-agents` |
 | obra/superpowers | `references/superpowers/` | целый порядок разработки от идеи до pull request, с TDD и планами | — |
+| EpicenterHQ/epicenter | GitHub | `abstraction`: свернуть сложную работу в минимум, нужный для решения | `abstraction`, пробую с 2026-11-16 |
 | мои | `agent-kit/` | цепочка задача → план → тикеты → ревью → pull request | копируется в проект |
 
 ### Дизайн
@@ -73,6 +74,7 @@ ln -s ../../.agents/skills/<name> ~/.claude/skills/<name>
 |---|---|---|---|
 | N1arko/redaktura-skills | GitHub | редактура русских текстов по методу Сарычевой | `redaktura`, копия, обновляю вручную |
 | blader/humanizer | GitHub | убирает из английского текста обороты, по которым видно нейросеть | — |
+| EpicenterHQ/epicenter | GitHub | `google-devdocs-style`: английская документация по стилю Google | `google-devdocs-style`, пробую с 2026-11-16 |
 
 ### Где искать скиллы
 
