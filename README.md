@@ -72,7 +72,7 @@ ln -s ../../.agents/skills/<name> ~/.claude/skills/<name>
 | Источник | Где | Что там | Подключено |
 |---|---|---|---|
 | N1arko/redaktura-skills | GitHub | редактура русских текстов по методу Сарычевой | `redaktura`, копия, обновляю вручную |
-| blader/humanizer | GitHub | убирает из английского текста обороты, по которым видно нейросеть | `humanizer` |
+| blader/humanizer | GitHub | убирает из английского текста обороты, по которым видно нейросеть | — |
 
 ### Где искать скиллы
 
@@ -87,6 +87,7 @@ ln -s ../../.agents/skills/<name> ~/.claude/skills/<name>
 
 | Скилл | Источник | Когда может понадобиться | Убран |
 |---|---|---|---|
+| `humanizer` | blader/humanizer | английский текст звучит как от нейросети; для русского есть `redaktura` | 2026-11-16 |
 | `codebase-design` | mattpocock/skills | спроектировать модуль: интерфейс, швы, тестируемость | 2026-11-15 |
 | `prototype` | mattpocock/skills | одноразовый прототип, чтобы проверить идею | 2026-11-15 |
 | `research` | mattpocock/skills | исследование по первоисточникам в markdown; в `agent-kit` есть свой `research` | 2026-11-15 |
