@@ -74,6 +74,7 @@ ln -s ../../.agents/skills/<name> ~/.claude/skills/<name>
 |---|---|---|---|
 | N1arko/redaktura-skills | GitHub | редактура русских текстов по методу Сарычевой | `redaktura`, копия, обновляю вручную |
 | blader/humanizer | GitHub | убирает из английского текста обороты, по которым видно нейросеть | — |
+| anthropics/skills | GitHub | `doc-coauthoring`: пошаговая совместная работа над документом | `doc-coauthoring`, пробую с 2026-11-16 |
 | EpicenterHQ/epicenter | GitHub | `google-devdocs-style`: английская документация по стилю Google | `google-devdocs-style`, пробую с 2026-11-16 |
 
 ### Где искать скиллы
